@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [6 CLI Tools All Experts Know](https://dev.to/seekayel/6-cli-tools-all-experts-know-1k9l)
+- [How to Debug](https://dev.to/seekayel/how-to-debug-2mia)
 <!-- BLOG-POST-LIST:END -->
