@@ -1,25 +1,15 @@
 # Kam Lasater (seekayel)
 
-<!--
-**seekayel/seekayel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Everyone fails at software they don&#39;t build](https://dev.to/seekayel/everyone-fails-at-software-they-dont-build-8dc)
-- [Talking About Failure](https://dev.to/seekayel/talking-about-failure-895)
-- [How to Fail at Serverless: Serverless is Stateless](https://dev.to/seekayel/how-to-fail-at-serverless-serverless-is-stateless-34o4)
-- [6 CLI Tools All Experts Know](https://dev.to/seekayel/6-cli-tools-all-experts-know-1k9l)
-- [How to Debug](https://dev.to/seekayel/how-to-debug-2mia)
+- [Junior Developers - Best of Times Worst of Times](https://kamlasater.com/blog/2025/06/09/best-of-times-worst-of-times/)
+- [On Vibe Coding](https://kamlasater.com/blog/2025/03/18/on-vibe-coding/)
+- [AI Engineer Summit - Some Thoughts](https://kamlasater.com/blog/2025/02/20/ai-engineer-summit-thoughts/)
+- [AI Engineer Worlds Fair - Some Thoughts](https://kamlasater.com/blog/2024/06/27/ai-engineer-conference-thoughts/)
+- [AWS Resource Tags](https://kamlasater.com/blog/2024/05/28/aws-tagging/)
+- [Cyclic is Shutting Down](https://kamlasater.com/blog/cyclic-is-shutting-down/)
+- [The Answer is to Deploy Now](https://kamlasater.com/blog/deploy-now/)
+- [Using Slack as a Searchable Event Stream Database](https://kamlasater.com/blog/slack-as-searchable-db/)
+- [Managing Service Account JSON Files or Files with Secrets in Node.js](https://kamlasater.com/blog/managing-service-account-credentials-json-files/)
 <!-- BLOG-POST-LIST:END -->
