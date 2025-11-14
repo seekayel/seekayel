@@ -7,6 +7,7 @@
 
 ## **Side projects**
 - LLM personality testing https://www.personalitybenchmark.ai/
+- Yolo mode agent sandbox https://github.com/seekayel/yolo
 - Silly fun https://seekayel.com
 
 ## **Writing**
